@@ -1,2 +1,0 @@
-# SuedaSen-AndroidStudioKnowMyAge
-# SuedaSen-AndroidStudioCalculateUserAgeApp
